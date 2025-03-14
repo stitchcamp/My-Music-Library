@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="music.xsl"?>
+<music>
+    <song id="1">
+        <songTitle>Bohemian Rhapsody</songTitle>
+        <artist>Queen</artist>
+        <albums>
+            <album>A Night at the Opera</album>
+            <album>Greatest Hits</album>
+            <album>Classic Queen</album>
+        </albums>
+        <debutYear>1975</debutYear>
+    </song>
+    <song id="2">
+        <songTitle>Billie Jean</songTitle>
+        <artist>Michael Jackson</artist>
+        <albums>
+            <album>Thriller</album>
+            <album>Number Ones</album>
+            <album>The Essential Michael Jackson</album>
+            <album>History: Past, Present and Future, Book I</album>
+        </albums>
+        <debutYear>1983</debutYear>
+    </song>
+    <song id="3">
+        <songTitle>Imagine</songTitle>
+        <artist>John Lennon</artist>
+        <albums>
+            <album>Imagine</album>
+            <album>The John Lennon Collection</album>
+            <album>Lennon Legend: The Very Best of John Lennon</album>
+        </albums>
+        <debutYear>1971</debutYear>
+    </song>
+    <song id="4">
+        <songTitle>Like a Rolling Stone</songTitle>
+        <artist>Bob Dylan</artist>
+        <albums>
+            <album>Highway 61 Revisited</album>
+            <album>Bob Dylan's Greatest Hits</album>
+            <album>The Essential Bob Dylan</album>
+        </albums>
+        <debutYear>1965</debutYear>
+    </song>
+    <song id="5">
+        <songTitle>Smells Like Teen Spirit</songTitle>
+        <artist>Nirvana</artist>
+        <albums>
+            <album>Nevermind</album>
+            <album>Nirvana</album>
+            <album>Icon</album>
+            <album>The Best of Nirvana</album>
+        </albums>
+        <debutYear>1991</debutYear>
+    </song>
+</music>
